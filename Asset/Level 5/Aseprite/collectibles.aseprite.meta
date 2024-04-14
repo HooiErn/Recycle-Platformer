@@ -1,0 +1,2239 @@
+fileFormatVersion: 2
+guid: b1fb3ab7762ce634dabdde32b1145416
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: 62a9f0aa5b59740cfbadc7e5f9823bb0, type: 3}
+  textureImporterSettings:
+    alphaSource: 1
+    mipMapMode: 0
+    enableMipMap: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+    convertToNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+    swizzle: 50462976
+    isReadable: 0
+    streamingMipmaps: 0
+    streamingMipmapsPriority: 0
+    vTOnly: 0
+    ignoreMipmapLimit: 0
+    nPOTScale: 1
+    sRGBTexture: 1
+    spriteMode: 2
+    spriteExtrude: 1
+    spriteMeshType: 1
+    alignment: 0
+    spritePivot: {x: 0.5, y: 0.5}
+    spritePixelsToUnits: 100
+    spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+    spriteGenerateFallbackPhysicsShape: 0
+    generateCubemap: 6
+    cubemapConvolution: 0
+    seamlessCubemap: 0
+    alphaIsTransparency: 1
+    spriteTessellationDetail: -1
+    textureType: 8
+    textureShape: 1
+    singleChannelComponent: 0
+    flipbookRows: 0
+    flipbookColumns: 0
+    ignorePngGamma: 0
+    cookieMode: 0
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+    normalMap: 0
+    textureFormat: 0
+    maxTextureSize: 0
+    lightmap: 0
+    compressionQuality: 0
+    linearTexture: 0
+    grayScaleToAlpha: 0
+    rGBM: 0
+    cubemapConvolutionSteps: 0
+    cubemapConvolutionExponent: 0
+    maxTextureSizeSet: 0
+    compressionQualitySet: 0
+    textureFormatSet: 0
+    applyGammaDecoding: 0
+  previousAsepriteImporterSettings:
+    fileImportMode: 1
+    importHiddenLayers: 0
+    layerImportMode: 1
+    defaultPivotSpace: 0
+    defaultPivotAlignment: 7
+    customPivotPosition: {x: 0.5, y: 0.5}
+    mosaicPadding: 4
+    spritePadding: 0
+    generateModelPrefab: 1
+    generateAnimationClips: 1
+    addSortingGroup: 1
+    addShadowCasters: 0
+  asepriteImporterSettings:
+    fileImportMode: 1
+    importHiddenLayers: 0
+    layerImportMode: 1
+    defaultPivotSpace: 0
+    defaultPivotAlignment: 7
+    customPivotPosition: {x: 0.5, y: 0.5}
+    mosaicPadding: 4
+    spritePadding: 0
+    generateModelPrefab: 1
+    generateAnimationClips: 1
+    addSortingGroup: 1
+    addShadowCasters: 0
+  importFileNodeState: 1
+  platformSettingsDirtyTick: 0
+  textureAssetName: 
+  singleSpriteImportData:
+  - name: 
+    originalName: 
+    pivot: {x: 0, y: 0}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    spriteID: 
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 0, y: 0}
+  animatedSpriteImportData:
+  - name: collectibles_Frame_0
+    originalName: 
+    pivot: {x: 0.5, y: -0.8333334}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 112
+      y: 64
+      width: 12
+      height: 12
+    spriteID: bfe7e2db11b7dbe4995e8aac53e5cbf8
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 112, y: 64}
+  - name: collectibles_Frame_1
+    originalName: 
+    pivot: {x: 0.5, y: -0.8333334}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 154
+      y: 66
+      width: 8
+      height: 12
+    spriteID: aaf960e28819c1a49bc71764bb513eb7
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 154, y: 66}
+  - name: collectibles_Frame_2
+    originalName: 
+    pivot: {x: 0.5, y: -0.8333334}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 172
+      y: 25
+      width: 4
+      height: 12
+    spriteID: 7b454280b0ca9274187593ffdda3dced
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 172, y: 25}
+  - name: collectibles_Frame_3
+    originalName: 
+    pivot: {x: 0.5, y: -0.8333334}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 154
+      y: 86
+      width: 8
+      height: 12
+    spriteID: 2a319394246f8354fa37c9831dfa0dda
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 154, y: 86}
+  - name: collectibles_Frame_4
+    originalName: 
+    pivot: {x: 0.5, y: -0.8333334}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 112
+      y: 84
+      width: 12
+      height: 12
+    spriteID: 919cf32fd410b874193f16e06061bc20
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 112, y: 84}
+  - name: collectibles_Frame_5
+    originalName: 
+    pivot: {x: 0.5, y: -0.8333334}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 134
+      y: 198
+      width: 10
+      height: 12
+    spriteID: 2493718288fc9554687f970696218e51
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 134, y: 198}
+  - name: collectibles_Frame_6
+    originalName: 
+    pivot: {x: 0.5, y: -0.8333334}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 154
+      y: 203
+      width: 6
+      height: 12
+    spriteID: d4d32021c0883d144993d0bedbcdc7eb
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 154, y: 203}
+  - name: collectibles_Frame_7
+    originalName: 
+    pivot: {x: 0.5, y: -0.8333334}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 134
+      y: 218
+      width: 10
+      height: 12
+    spriteID: 2e8c184e066267948a3260b699ec1783
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 134, y: 218}
+  - name: collectibles_Frame_8
+    originalName: 
+    pivot: {x: 0.5, y: -0.5}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 88
+      y: 29
+      width: 16
+      height: 16
+    spriteID: 35e13d2076a8ef947813d44bc1d29c15
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 88, y: 29}
+  - name: collectibles_Frame_9
+    originalName: 
+    pivot: {x: 0.5, y: -0.5}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 88
+      y: 100
+      width: 12
+      height: 16
+    spriteID: f23727867166cdf4caa51834521f9b28
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 88, y: 100}
+  - name: collectibles_Frame_10
+    originalName: 
+    pivot: {x: 0.5, y: -0.5}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 154
+      y: 106
+      width: 6
+      height: 16
+    spriteID: 5a4f5fd8d2b1549478a229fc66c1bfe8
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 154, y: 106}
+  - name: collectibles_Frame_11
+    originalName: 
+    pivot: {x: 0.5, y: -0.5}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 88
+      y: 124
+      width: 12
+      height: 16
+    spriteID: fb9171f0d8787ab4388ff4f2128d58b6
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 88, y: 124}
+  - name: collectibles_Frame_12
+    originalName: 
+    pivot: {x: 0.5, y: -0.3}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 136
+      width: 20
+      height: 20
+    spriteID: 469fe41244a589f4a8bc4c8668910a62
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 136}
+  - name: collectibles_Frame_13
+    originalName: 
+    pivot: {x: 0.5, y: -0.3}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 64
+      y: 4
+      width: 16
+      height: 20
+    spriteID: b7e154c8d8bf5e34580f419270a3adcc
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 64, y: 4}
+  - name: collectibles_Frame_14
+    originalName: 
+    pivot: {x: 0.5, y: -0.3}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 154
+      y: 147
+      width: 4
+      height: 20
+    spriteID: 253d4c7fb90adab4596b2769454e21f1
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 154, y: 147}
+  - name: collectibles_Frame_15
+    originalName: 
+    pivot: {x: 0.5, y: -0.3}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 64
+      y: 32
+      width: 16
+      height: 20
+    spriteID: 8973d3e7fd12bf84f895f46706f494c9
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 64, y: 32}
+  - name: collectibles_Frame_16
+    originalName: 
+    pivot: {x: 0.5, y: -0.3}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 164
+      width: 20
+      height: 20
+    spriteID: 3f3d661283cea7b42a362a1d9e828512
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 164}
+  - name: collectibles_Frame_17
+    originalName: 
+    pivot: {x: 0.5, y: -0.3}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 64
+      y: 60
+      width: 16
+      height: 20
+    spriteID: 2d1bf86bb79982e469b721b0a3be2cea
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 64, y: 60}
+  - name: collectibles_Frame_18
+    originalName: 
+    pivot: {x: 0.5, y: -0.3}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 154
+      y: 175
+      width: 4
+      height: 20
+    spriteID: fe487396117e7dc4d92b9288d04c461c
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 154, y: 175}
+  - name: collectibles_Frame_19
+    originalName: 
+    pivot: {x: 0.5, y: -0.3}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 64
+      y: 88
+      width: 16
+      height: 20
+    spriteID: 26da38ce055e91043bfc7105d2c415e1
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 64, y: 88}
+  - name: collectibles_Frame_20
+    originalName: 
+    pivot: {x: 0.44444445, y: -1.3333334}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 154
+      y: 130
+      width: 9
+      height: 9
+    spriteID: bab91e514520ff84cb69a53c5d371922
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 154, y: 130}
+  - name: collectibles_Frame_21
+    originalName: 
+    pivot: {x: 0.4615385, y: -0.7692308}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 88
+      y: 148
+      width: 13
+      height: 13
+    spriteID: eea6368d4c2c59042a90187ae1aabd11
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 88, y: 148}
+  - name: collectibles_Frame_22
+    originalName: 
+    pivot: {x: 0.4666667, y: -0.6}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 88
+      y: 77
+      width: 15
+      height: 15
+    spriteID: 8772db3d57cd94a4eb885d187d1ba5b6
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 88, y: 77}
+  - name: collectibles_Frame_24
+    originalName: 
+    pivot: {x: 0.5, y: -0.8333334}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 88
+      y: 211
+      width: 14
+      height: 12
+    spriteID: 2c251871cc04fd945a8c167ff9fd6856
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 88, y: 211}
+  - name: collectibles_Frame_25
+    originalName: 
+    pivot: {x: 0.5, y: -0.8333334}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 88
+      y: 231
+      width: 14
+      height: 12
+    spriteID: 649063b65631a894987ccef7e4c3d2f2
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 88, y: 231}
+  - name: collectibles_Frame_26
+    originalName: 
+    pivot: {x: 0.5, y: -0.8333334}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 112
+      y: 4
+      width: 14
+      height: 12
+    spriteID: 7856d5b2af244db4d8876571221a19af
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 112, y: 4}
+  - name: collectibles_Frame_27
+    originalName: 
+    pivot: {x: 0.5, y: -0.8333334}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 112
+      y: 24
+      width: 14
+      height: 12
+    spriteID: 153c27925f4db7844991844c3a142aac
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 112, y: 24}
+  - name: collectibles_Frame_28
+    originalName: 
+    pivot: {x: 0.5, y: -0.8333334}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 112
+      y: 44
+      width: 14
+      height: 12
+    spriteID: ef938006f2516ab428d7c1bbec47498a
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 112, y: 44}
+  - name: collectibles_Frame_29
+    originalName: 
+    pivot: {x: 0.5, y: -0.8333334}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 112
+      y: 104
+      width: 12
+      height: 12
+    spriteID: 7188c3074375b1049bda857565088023
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 112, y: 104}
+  - name: collectibles_Frame_30
+    originalName: 
+    pivot: {x: 0.5, y: -0.8333334}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 134
+      y: 238
+      width: 10
+      height: 12
+    spriteID: 900d02a431f6daa45962b8b666eb13af
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 134, y: 238}
+  - name: collectibles_Frame_31
+    originalName: 
+    pivot: {x: 0.5, y: -0.8333334}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 154
+      y: 223
+      width: 6
+      height: 12
+    spriteID: 3fb964910e14be7409ce99b6ceebf2e8
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 154, y: 223}
+  - name: collectibles_Frame_32
+    originalName: 
+    pivot: {x: 0.5, y: -0.8333334}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 154
+      y: 4
+      width: 10
+      height: 12
+    spriteID: 8fee45c021e682b4dad9f6644ad86b07
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 154, y: 4}
+  - name: collectibles_Frame_33
+    originalName: 
+    pivot: {x: 0.53846157, y: -0.7692308}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 88
+      y: 169
+      width: 13
+      height: 13
+    spriteID: 2afd69149ec8eb84e8bcd21fc9e6b38c
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 88, y: 169}
+  - name: collectibles_Frame_34
+    originalName: 
+    pivot: {x: 0.53846157, y: -0.7692308}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 88
+      y: 190
+      width: 13
+      height: 13
+    spriteID: 0dadb2b48dcd2ab428b931d8b09ef207
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 88, y: 190}
+  - name: collectibles_Frame_35
+    originalName: 
+    pivot: {x: 0.5, y: -0.7692308}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 154
+      y: 24
+      width: 8
+      height: 13
+    spriteID: d4d775bff1c5e834d91dcb25a1eb4e4a
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 154, y: 24}
+  - name: collectibles_Frame_36
+    originalName: 
+    pivot: {x: 0.5, y: -0.7692308}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 172
+      y: 4
+      width: 4
+      height: 13
+    spriteID: 0c5f4657aa65da848840eb5b6972af68
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 172, y: 4}
+  - name: collectibles_Frame_37
+    originalName: 
+    pivot: {x: 0.5, y: -0.7692308}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 154
+      y: 45
+      width: 8
+      height: 13
+    spriteID: 566dd3999aaad78469ed25321ece0327
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 154, y: 45}
+  - name: collectibles_Frame_38
+    originalName: 
+    pivot: {x: 0.5, y: -1.1}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 64
+      y: 241
+      width: 10
+      height: 10
+    spriteID: a36409366e92d5d45a13f4528cd43f00
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 64, y: 241}
+  - name: collectibles_Frame_39
+    originalName: 
+    pivot: {x: 0.5, y: -0.3888889}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 36
+      y: 233
+      width: 18
+      height: 18
+    spriteID: da485274a52316c46a71f4682fd1b791
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 36, y: 233}
+  - name: collectibles_Frame_40
+    originalName: 
+    pivot: {x: 0.5, y: -0.22727273}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 68
+      width: 22
+      height: 22
+    spriteID: 4e3819ec302accf4e923f4f9384faf70
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 68}
+  - name: collectibles_Frame_41
+    originalName: 
+    pivot: {x: 0.5, y: -0.16666667}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 4
+      width: 24
+      height: 24
+    spriteID: dbf852d3c1ef11d4a960b64894ef3094
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 4}
+  - name: collectibles_Frame_43
+    originalName: 
+    pivot: {x: 0.44444445, y: -0.71428573}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 134
+      y: 44
+      width: 9
+      height: 14
+    spriteID: 26318d63ac8a7224d87ce42ca5528734
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 134, y: 44}
+  - name: collectibles_Frame_44
+    originalName: 
+    pivot: {x: 0.44444445, y: -0.71428573}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 134
+      y: 66
+      width: 9
+      height: 14
+    spriteID: 3396e78c5da53c346a880979ba861ffd
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 134, y: 66}
+  - name: collectibles_Frame_45
+    originalName: 
+    pivot: {x: 0.44444445, y: -0.71428573}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 134
+      y: 88
+      width: 9
+      height: 14
+    spriteID: 95a1320b1866cf94aa75657de9e20452
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 134, y: 88}
+  - name: collectibles_Frame_46
+    originalName: 
+    pivot: {x: 0.44444445, y: -0.71428573}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 134
+      y: 110
+      width: 9
+      height: 14
+    spriteID: dac0ae01626007d41a771a6a67cd41cf
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 134, y: 110}
+  - name: collectibles_Frame_47
+    originalName: 
+    pivot: {x: 0.44444445, y: -0.71428573}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 134
+      y: 132
+      width: 9
+      height: 14
+    spriteID: a545878e6d952fe40b127b297baeea81
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 134, y: 132}
+  - name: collectibles_Frame_48
+    originalName: 
+    pivot: {x: 0.44444445, y: -0.71428573}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 134
+      y: 154
+      width: 9
+      height: 14
+    spriteID: 5e3fc76d21a49324d9be00ff9a97f171
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 134, y: 154}
+  - name: collectibles_Frame_49
+    originalName: 
+    pivot: {x: 0.44444445, y: -0.71428573}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 134
+      y: 176
+      width: 9
+      height: 14
+    spriteID: 3b23a4680c927c247a93099262160c73
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 134, y: 176}
+  - name: collectibles_Frame_50
+    originalName: 
+    pivot: {x: 0.5, y: -0.47058824}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 64
+      y: 116
+      width: 16
+      height: 17
+    spriteID: 2e3bddc2393c9ed47aae3a70d4091a92
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 64, y: 116}
+  - name: collectibles_Frame_51
+    originalName: 
+    pivot: {x: 0.5, y: -0.47058824}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 64
+      y: 141
+      width: 16
+      height: 17
+    spriteID: 6a31808310f44524b83a242b4c715463
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 64, y: 141}
+  - name: collectibles_Frame_52
+    originalName: 
+    pivot: {x: 0.5, y: -0.47058824}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 64
+      y: 166
+      width: 16
+      height: 17
+    spriteID: fc202e3d2424e2d48adc7bb7f93109c9
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 64, y: 166}
+  - name: collectibles_Frame_53
+    originalName: 
+    pivot: {x: 0.5, y: -0.47058824}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 64
+      y: 191
+      width: 16
+      height: 17
+    spriteID: 6c54873e7787c32459b0b4e86e6dc95c
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 64, y: 191}
+  - name: collectibles_Frame_54
+    originalName: 
+    pivot: {x: 0.5, y: -0.47058824}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 64
+      y: 216
+      width: 16
+      height: 17
+    spriteID: d8e28fb2d090b6946981f8d4ab8de728
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 64, y: 216}
+  - name: collectibles_Frame_55
+    originalName: 
+    pivot: {x: 0.5, y: -0.47058824}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 88
+      y: 4
+      width: 16
+      height: 17
+    spriteID: 1b77bc2114877cd4a985481f9de45756
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 88, y: 4}
+  - name: collectibles_Frame_56
+    originalName: 
+    pivot: {x: 0.5, y: -0.8333334}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 112
+      y: 124
+      width: 12
+      height: 12
+    spriteID: ca5ffbd0bad0d9e4e90ec851880e507b
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 112, y: 124}
+  - name: collectibles_Frame_57
+    originalName: 
+    pivot: {x: 0.5, y: -0.8333334}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 112
+      y: 144
+      width: 12
+      height: 12
+    spriteID: 9fcc7ad9c2f005f4cb3b802b5c44c1f6
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 112, y: 144}
+  - name: collectibles_Frame_58
+    originalName: 
+    pivot: {x: 0.5, y: -0.8333334}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 112
+      y: 164
+      width: 12
+      height: 12
+    spriteID: a33b2af98f5df8c4da8af46fa4e15abc
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 112, y: 164}
+  - name: collectibles_Frame_59
+    originalName: 
+    pivot: {x: 0.5, y: -0.8333334}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 112
+      y: 184
+      width: 12
+      height: 12
+    spriteID: cfcfc997d4bfa9c489a4edd856269d3f
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 112, y: 184}
+  - name: collectibles_Frame_60
+    originalName: 
+    pivot: {x: 0.5, y: -0.8333334}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 112
+      y: 204
+      width: 12
+      height: 12
+    spriteID: eb4f9d0999a4b48499099a243e085e22
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 112, y: 204}
+  - name: collectibles_Frame_61
+    originalName: 
+    pivot: {x: 0.5, y: -0.8333334}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 112
+      y: 224
+      width: 12
+      height: 12
+    spriteID: 597537f23daa3d14bab1bf2120178657
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 112, y: 224}
+  - name: collectibles_Frame_62
+    originalName: 
+    pivot: {x: 0.5, y: -0.8333334}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 134
+      y: 4
+      width: 12
+      height: 12
+    spriteID: f760a23528d72c9438b8708639c3d5b8
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 134, y: 4}
+  - name: collectibles_Frame_63
+    originalName: 
+    pivot: {x: 0.5, y: -0.8333334}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 134
+      y: 24
+      width: 12
+      height: 12
+    spriteID: 0c178d0f228daef4ab71329f75147218
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 134, y: 24}
+  - name: collectibles_Frame_64
+    originalName: 
+    pivot: {x: 0.5, y: -0.033333335}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 98
+      width: 16
+      height: 30
+    spriteID: 9415eb955e48ae349aee983a1fa5a1af
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 98}
+  - name: collectibles_Frame_65
+    originalName: 
+    pivot: {x: 0.5, y: -0.5217391}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 36
+      y: 172
+      width: 16
+      height: 23
+    spriteID: a427a3cbccbbdad4aa296a1b048fac4a
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 36, y: 172}
+  - name: collectibles_Frame_66
+    originalName: 
+    pivot: {x: 0.5, y: -0.72727275}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 36
+      y: 203
+      width: 16
+      height: 22
+    spriteID: c68d2ab1c33b5324abc0a23d4e39d046
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 36, y: 203}
+  - name: collectibles_Frame_67
+    originalName: 
+    pivot: {x: 0.5, y: -1.5}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 88
+      y: 53
+      width: 16
+      height: 16
+    spriteID: 0944cbc07d09f7a4c963fac4e024193c
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 88, y: 53}
+  - name: collectibles_Frame_69
+    originalName: 
+    pivot: {x: 0.5, y: -0.16666667}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 36
+      width: 24
+      height: 24
+    spriteID: 695fc2bb4d000a44db36460fbf058e2f
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 36}
+  - name: collectibles_Frame_70
+    originalName: 
+    pivot: {x: 0.5, y: -0.3}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 192
+      width: 20
+      height: 20
+    spriteID: fd1a0d7f3a1232e43a25cf18810c850a
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 192}
+  - name: collectibles_Frame_71
+    originalName: 
+    pivot: {x: 0.5, y: -0.3}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 220
+      width: 20
+      height: 20
+    spriteID: ea028f0ae1ec5dd408535a604d5c543d
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 220}
+  - name: collectibles_Frame_72
+    originalName: 
+    pivot: {x: 0.5, y: -0.3}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 36
+      y: 4
+      width: 20
+      height: 20
+    spriteID: 9c62b212d9a08c04b909a43a58099354
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 36, y: 4}
+  - name: collectibles_Frame_73
+    originalName: 
+    pivot: {x: 0.5, y: -0.3}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 36
+      y: 32
+      width: 20
+      height: 20
+    spriteID: 7c773d461a070a94490a3b6af390474c
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 36, y: 32}
+  - name: collectibles_Frame_74
+    originalName: 
+    pivot: {x: 0.5, y: -0.3}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 36
+      y: 60
+      width: 20
+      height: 20
+    spriteID: 45edc3893da3b0b4b9c2141d81d537af
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 36, y: 60}
+  - name: collectibles_Frame_75
+    originalName: 
+    pivot: {x: 0.5, y: -0.3}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 36
+      y: 88
+      width: 20
+      height: 20
+    spriteID: 0aaf8d9c85ceaa44eb71c4792c9df5e1
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 36, y: 88}
+  - name: collectibles_Frame_76
+    originalName: 
+    pivot: {x: 0.5, y: -0.3}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 36
+      y: 116
+      width: 20
+      height: 20
+    spriteID: cc2e19f076457ad40b7b8a8decbc2c0d
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 36, y: 116}
+  - name: collectibles_Frame_77
+    originalName: 
+    pivot: {x: 0.5, y: -0.3}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 36
+      y: 144
+      width: 20
+      height: 20
+    spriteID: 35b1eaee3c908864aae000392722fc89
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 36, y: 144}
+  spriteSheetImportData: []
+  asepriteLayers:
+  - layerIndex: 0
+    guid: 142204127
+    name: collectibles
+    layerFlags: 0
+    layerType: 0
+    blendMode: 0
+    cells:
+    - name: collectibles_Frame_0
+      frameIndex: 0
+      cellRect:
+        x: 10
+        y: 10
+        width: 12
+        height: 12
+      spriteId: bfe7e2db11b7dbe4995e8aac53e5cbf8
+    - name: collectibles_Frame_1
+      frameIndex: 1
+      cellRect:
+        x: 12
+        y: 10
+        width: 8
+        height: 12
+      spriteId: aaf960e28819c1a49bc71764bb513eb7
+    - name: collectibles_Frame_2
+      frameIndex: 2
+      cellRect:
+        x: 14
+        y: 10
+        width: 4
+        height: 12
+      spriteId: 7b454280b0ca9274187593ffdda3dced
+    - name: collectibles_Frame_3
+      frameIndex: 3
+      cellRect:
+        x: 12
+        y: 10
+        width: 8
+        height: 12
+      spriteId: 2a319394246f8354fa37c9831dfa0dda
+    - name: collectibles_Frame_4
+      frameIndex: 4
+      cellRect:
+        x: 10
+        y: 10
+        width: 12
+        height: 12
+      spriteId: 919cf32fd410b874193f16e06061bc20
+    - name: collectibles_Frame_5
+      frameIndex: 5
+      cellRect:
+        x: 11
+        y: 10
+        width: 10
+        height: 12
+      spriteId: 2493718288fc9554687f970696218e51
+    - name: collectibles_Frame_6
+      frameIndex: 6
+      cellRect:
+        x: 13
+        y: 10
+        width: 6
+        height: 12
+      spriteId: d4d32021c0883d144993d0bedbcdc7eb
+    - name: collectibles_Frame_7
+      frameIndex: 7
+      cellRect:
+        x: 11
+        y: 10
+        width: 10
+        height: 12
+      spriteId: 2e8c184e066267948a3260b699ec1783
+    - name: collectibles_Frame_8
+      frameIndex: 8
+      cellRect:
+        x: 8
+        y: 8
+        width: 16
+        height: 16
+      spriteId: 35e13d2076a8ef947813d44bc1d29c15
+    - name: collectibles_Frame_9
+      frameIndex: 9
+      cellRect:
+        x: 10
+        y: 8
+        width: 12
+        height: 16
+      spriteId: f23727867166cdf4caa51834521f9b28
+    - name: collectibles_Frame_10
+      frameIndex: 10
+      cellRect:
+        x: 13
+        y: 8
+        width: 6
+        height: 16
+      spriteId: 5a4f5fd8d2b1549478a229fc66c1bfe8
+    - name: collectibles_Frame_11
+      frameIndex: 11
+      cellRect:
+        x: 10
+        y: 8
+        width: 12
+        height: 16
+      spriteId: fb9171f0d8787ab4388ff4f2128d58b6
+    - name: collectibles_Frame_12
+      frameIndex: 12
+      cellRect:
+        x: 6
+        y: 6
+        width: 20
+        height: 20
+      spriteId: 469fe41244a589f4a8bc4c8668910a62
+    - name: collectibles_Frame_13
+      frameIndex: 13
+      cellRect:
+        x: 8
+        y: 6
+        width: 16
+        height: 20
+      spriteId: b7e154c8d8bf5e34580f419270a3adcc
+    - name: collectibles_Frame_14
+      frameIndex: 14
+      cellRect:
+        x: 14
+        y: 6
+        width: 4
+        height: 20
+      spriteId: 253d4c7fb90adab4596b2769454e21f1
+    - name: collectibles_Frame_15
+      frameIndex: 15
+      cellRect:
+        x: 8
+        y: 6
+        width: 16
+        height: 20
+      spriteId: 8973d3e7fd12bf84f895f46706f494c9
+    - name: collectibles_Frame_16
+      frameIndex: 16
+      cellRect:
+        x: 6
+        y: 6
+        width: 20
+        height: 20
+      spriteId: 3f3d661283cea7b42a362a1d9e828512
+    - name: collectibles_Frame_17
+      frameIndex: 17
+      cellRect:
+        x: 8
+        y: 6
+        width: 16
+        height: 20
+      spriteId: 2d1bf86bb79982e469b721b0a3be2cea
+    - name: collectibles_Frame_18
+      frameIndex: 18
+      cellRect:
+        x: 14
+        y: 6
+        width: 4
+        height: 20
+      spriteId: fe487396117e7dc4d92b9288d04c461c
+    - name: collectibles_Frame_19
+      frameIndex: 19
+      cellRect:
+        x: 8
+        y: 6
+        width: 16
+        height: 20
+      spriteId: 26da38ce055e91043bfc7105d2c415e1
+    - name: collectibles_Frame_20
+      frameIndex: 20
+      cellRect:
+        x: 12
+        y: 12
+        width: 9
+        height: 9
+      spriteId: bab91e514520ff84cb69a53c5d371922
+    - name: collectibles_Frame_21
+      frameIndex: 21
+      cellRect:
+        x: 10
+        y: 10
+        width: 13
+        height: 13
+      spriteId: eea6368d4c2c59042a90187ae1aabd11
+    - name: collectibles_Frame_22
+      frameIndex: 22
+      cellRect:
+        x: 9
+        y: 9
+        width: 15
+        height: 15
+      spriteId: 8772db3d57cd94a4eb885d187d1ba5b6
+    - name: collectibles_Frame_24
+      frameIndex: 24
+      cellRect:
+        x: 9
+        y: 10
+        width: 14
+        height: 12
+      spriteId: 2c251871cc04fd945a8c167ff9fd6856
+    - name: collectibles_Frame_25
+      frameIndex: 25
+      cellRect:
+        x: 9
+        y: 10
+        width: 14
+        height: 12
+      spriteId: 649063b65631a894987ccef7e4c3d2f2
+    - name: collectibles_Frame_26
+      frameIndex: 26
+      cellRect:
+        x: 9
+        y: 10
+        width: 14
+        height: 12
+      spriteId: 7856d5b2af244db4d8876571221a19af
+    - name: collectibles_Frame_27
+      frameIndex: 27
+      cellRect:
+        x: 9
+        y: 10
+        width: 14
+        height: 12
+      spriteId: 153c27925f4db7844991844c3a142aac
+    - name: collectibles_Frame_28
+      frameIndex: 28
+      cellRect:
+        x: 9
+        y: 10
+        width: 14
+        height: 12
+      spriteId: ef938006f2516ab428d7c1bbec47498a
+    - name: collectibles_Frame_29
+      frameIndex: 29
+      cellRect:
+        x: 10
+        y: 10
+        width: 12
+        height: 12
+      spriteId: 7188c3074375b1049bda857565088023
+    - name: collectibles_Frame_30
+      frameIndex: 30
+      cellRect:
+        x: 11
+        y: 10
+        width: 10
+        height: 12
+      spriteId: 900d02a431f6daa45962b8b666eb13af
+    - name: collectibles_Frame_31
+      frameIndex: 31
+      cellRect:
+        x: 13
+        y: 10
+        width: 6
+        height: 12
+      spriteId: 3fb964910e14be7409ce99b6ceebf2e8
+    - name: collectibles_Frame_32
+      frameIndex: 32
+      cellRect:
+        x: 11
+        y: 10
+        width: 10
+        height: 12
+      spriteId: 8fee45c021e682b4dad9f6644ad86b07
+    - name: collectibles_Frame_33
+      frameIndex: 33
+      cellRect:
+        x: 9
+        y: 10
+        width: 13
+        height: 13
+      spriteId: 2afd69149ec8eb84e8bcd21fc9e6b38c
+    - name: collectibles_Frame_34
+      frameIndex: 34
+      cellRect:
+        x: 9
+        y: 10
+        width: 13
+        height: 13
+      spriteId: 0dadb2b48dcd2ab428b931d8b09ef207
+    - name: collectibles_Frame_35
+      frameIndex: 35
+      cellRect:
+        x: 12
+        y: 10
+        width: 8
+        height: 13
+      spriteId: d4d775bff1c5e834d91dcb25a1eb4e4a
+    - name: collectibles_Frame_36
+      frameIndex: 36
+      cellRect:
+        x: 14
+        y: 10
+        width: 4
+        height: 13
+      spriteId: 0c5f4657aa65da848840eb5b6972af68
+    - name: collectibles_Frame_37
+      frameIndex: 37
+      cellRect:
+        x: 12
+        y: 10
+        width: 8
+        height: 13
+      spriteId: 566dd3999aaad78469ed25321ece0327
+    - name: collectibles_Frame_38
+      frameIndex: 38
+      cellRect:
+        x: 11
+        y: 11
+        width: 10
+        height: 10
+      spriteId: a36409366e92d5d45a13f4528cd43f00
+    - name: collectibles_Frame_39
+      frameIndex: 39
+      cellRect:
+        x: 7
+        y: 7
+        width: 18
+        height: 18
+      spriteId: da485274a52316c46a71f4682fd1b791
+    - name: collectibles_Frame_40
+      frameIndex: 40
+      cellRect:
+        x: 5
+        y: 5
+        width: 22
+        height: 22
+      spriteId: 4e3819ec302accf4e923f4f9384faf70
+    - name: collectibles_Frame_41
+      frameIndex: 41
+      cellRect:
+        x: 4
+        y: 4
+        width: 24
+        height: 24
+      spriteId: dbf852d3c1ef11d4a960b64894ef3094
+    - name: collectibles_Frame_43
+      frameIndex: 43
+      cellRect:
+        x: 12
+        y: 10
+        width: 9
+        height: 14
+      spriteId: 26318d63ac8a7224d87ce42ca5528734
+    - name: collectibles_Frame_44
+      frameIndex: 44
+      cellRect:
+        x: 12
+        y: 10
+        width: 9
+        height: 14
+      spriteId: 3396e78c5da53c346a880979ba861ffd
+    - name: collectibles_Frame_45
+      frameIndex: 45
+      cellRect:
+        x: 12
+        y: 10
+        width: 9
+        height: 14
+      spriteId: 95a1320b1866cf94aa75657de9e20452
+    - name: collectibles_Frame_46
+      frameIndex: 46
+      cellRect:
+        x: 12
+        y: 10
+        width: 9
+        height: 14
+      spriteId: dac0ae01626007d41a771a6a67cd41cf
+    - name: collectibles_Frame_47
+      frameIndex: 47
+      cellRect:
+        x: 12
+        y: 10
+        width: 9
+        height: 14
+      spriteId: a545878e6d952fe40b127b297baeea81
+    - name: collectibles_Frame_48
+      frameIndex: 48
+      cellRect:
+        x: 12
+        y: 10
+        width: 9
+        height: 14
+      spriteId: 5e3fc76d21a49324d9be00ff9a97f171
+    - name: collectibles_Frame_49
+      frameIndex: 49
+      cellRect:
+        x: 12
+        y: 10
+        width: 9
+        height: 14
+      spriteId: 3b23a4680c927c247a93099262160c73
+    - name: collectibles_Frame_50
+      frameIndex: 50
+      cellRect:
+        x: 8
+        y: 8
+        width: 16
+        height: 17
+      spriteId: 2e3bddc2393c9ed47aae3a70d4091a92
+    - name: collectibles_Frame_51
+      frameIndex: 51
+      cellRect:
+        x: 8
+        y: 8
+        width: 16
+        height: 17
+      spriteId: 6a31808310f44524b83a242b4c715463
+    - name: collectibles_Frame_52
+      frameIndex: 52
+      cellRect:
+        x: 8
+        y: 8
+        width: 16
+        height: 17
+      spriteId: fc202e3d2424e2d48adc7bb7f93109c9
+    - name: collectibles_Frame_53
+      frameIndex: 53
+      cellRect:
+        x: 8
+        y: 8
+        width: 16
+        height: 17
+      spriteId: 6c54873e7787c32459b0b4e86e6dc95c
+    - name: collectibles_Frame_54
+      frameIndex: 54
+      cellRect:
+        x: 8
+        y: 8
+        width: 16
+        height: 17
+      spriteId: d8e28fb2d090b6946981f8d4ab8de728
+    - name: collectibles_Frame_55
+      frameIndex: 55
+      cellRect:
+        x: 8
+        y: 8
+        width: 16
+        height: 17
+      spriteId: 1b77bc2114877cd4a985481f9de45756
+    - name: collectibles_Frame_56
+      frameIndex: 56
+      cellRect:
+        x: 10
+        y: 10
+        width: 12
+        height: 12
+      spriteId: ca5ffbd0bad0d9e4e90ec851880e507b
+    - name: collectibles_Frame_57
+      frameIndex: 57
+      cellRect:
+        x: 10
+        y: 10
+        width: 12
+        height: 12
+      spriteId: 9fcc7ad9c2f005f4cb3b802b5c44c1f6
+    - name: collectibles_Frame_58
+      frameIndex: 58
+      cellRect:
+        x: 10
+        y: 10
+        width: 12
+        height: 12
+      spriteId: a33b2af98f5df8c4da8af46fa4e15abc
+    - name: collectibles_Frame_59
+      frameIndex: 59
+      cellRect:
+        x: 10
+        y: 10
+        width: 12
+        height: 12
+      spriteId: cfcfc997d4bfa9c489a4edd856269d3f
+    - name: collectibles_Frame_60
+      frameIndex: 60
+      cellRect:
+        x: 10
+        y: 10
+        width: 12
+        height: 12
+      spriteId: eb4f9d0999a4b48499099a243e085e22
+    - name: collectibles_Frame_61
+      frameIndex: 61
+      cellRect:
+        x: 10
+        y: 10
+        width: 12
+        height: 12
+      spriteId: 597537f23daa3d14bab1bf2120178657
+    - name: collectibles_Frame_62
+      frameIndex: 62
+      cellRect:
+        x: 10
+        y: 10
+        width: 12
+        height: 12
+      spriteId: f760a23528d72c9438b8708639c3d5b8
+    - name: collectibles_Frame_63
+      frameIndex: 63
+      cellRect:
+        x: 10
+        y: 10
+        width: 12
+        height: 12
+      spriteId: 0c178d0f228daef4ab71329f75147218
+    - name: collectibles_Frame_64
+      frameIndex: 64
+      cellRect:
+        x: 8
+        y: 1
+        width: 16
+        height: 30
+      spriteId: 9415eb955e48ae349aee983a1fa5a1af
+    - name: collectibles_Frame_65
+      frameIndex: 65
+      cellRect:
+        x: 8
+        y: 12
+        width: 16
+        height: 23
+      spriteId: a427a3cbccbbdad4aa296a1b048fac4a
+    - name: collectibles_Frame_66
+      frameIndex: 66
+      cellRect:
+        x: 8
+        y: 16
+        width: 16
+        height: 22
+      spriteId: c68d2ab1c33b5324abc0a23d4e39d046
+    - name: collectibles_Frame_67
+      frameIndex: 67
+      cellRect:
+        x: 8
+        y: 24
+        width: 16
+        height: 16
+      spriteId: 0944cbc07d09f7a4c963fac4e024193c
+    - name: collectibles_Frame_69
+      frameIndex: 69
+      cellRect:
+        x: 4
+        y: 4
+        width: 24
+        height: 24
+      spriteId: 695fc2bb4d000a44db36460fbf058e2f
+    - name: collectibles_Frame_70
+      frameIndex: 70
+      cellRect:
+        x: 6
+        y: 6
+        width: 20
+        height: 20
+      spriteId: fd1a0d7f3a1232e43a25cf18810c850a
+    - name: collectibles_Frame_71
+      frameIndex: 71
+      cellRect:
+        x: 6
+        y: 6
+        width: 20
+        height: 20
+      spriteId: ea028f0ae1ec5dd408535a604d5c543d
+    - name: collectibles_Frame_72
+      frameIndex: 72
+      cellRect:
+        x: 6
+        y: 6
+        width: 20
+        height: 20
+      spriteId: 9c62b212d9a08c04b909a43a58099354
+    - name: collectibles_Frame_73
+      frameIndex: 73
+      cellRect:
+        x: 6
+        y: 6
+        width: 20
+        height: 20
+      spriteId: 7c773d461a070a94490a3b6af390474c
+    - name: collectibles_Frame_74
+      frameIndex: 74
+      cellRect:
+        x: 6
+        y: 6
+        width: 20
+        height: 20
+      spriteId: 45edc3893da3b0b4b9c2141d81d537af
+    - name: collectibles_Frame_75
+      frameIndex: 75
+      cellRect:
+        x: 6
+        y: 6
+        width: 20
+        height: 20
+      spriteId: 0aaf8d9c85ceaa44eb71c4792c9df5e1
+    - name: collectibles_Frame_76
+      frameIndex: 76
+      cellRect:
+        x: 6
+        y: 6
+        width: 20
+        height: 20
+      spriteId: cc2e19f076457ad40b7b8a8decbc2c0d
+    - name: collectibles_Frame_77
+      frameIndex: 77
+      cellRect:
+        x: 6
+        y: 6
+        width: 20
+        height: 20
+      spriteId: 35b1eaee3c908864aae000392722fc89
+    linkedCells: []
+    parentIndex: -1
+  platformSettings: []
+  generatePhysicsShape: 0
+  secondarySpriteTextures: []
+  spritePackingTag: 
+  canvasSize: {x: 32, y: 32}
